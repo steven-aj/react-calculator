@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  margin-top: 3em;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.calculator {
+  min-width: 320px;
+  max-width: 720px;
+  margin: 3em auto;
+  background-color: #222222;
+  box-shadow: 6px 9px 12px rgba(0,0,0, .33);
+}
+
+.tool-tip {
+  
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

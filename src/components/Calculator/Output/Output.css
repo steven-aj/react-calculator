@@ -1,0 +1,27 @@
+.output-screen {
+    padding: .1em;
+    background-color: #222222;
+}
+
+.current-value {
+    color: white;
+    font-size: 66pt;
+    text-align: right;
+    font-weight: 200;
+    margin-right: 12px;
+}
+
+.previous-value {
+    color: white;
+    text-align: right;
+    font-size: 12pt;
+    font-weight: 200;
+    padding-right: 18px;
+}
+
+.operation {
+    color: white;
+    text-align: left;
+    font-size: 12pt;
+    font-weight: 200;
+}

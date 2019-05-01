@@ -1,0 +1,39 @@
+.row button {
+    color: black;
+    font-size: 18pt;
+    font-weight: 200;
+    border: thin solid #222222;
+    padding: 1em;
+}
+
+
+button:hover {
+    background-color: silver;
+}
+
+.number {
+    background-color: rgb(231, 231, 231);
+}
+
+.number:hover {
+    background-color: rgb(235, 235, 235);
+}
+
+
+.operator {
+    color: white !important;
+    background-color: rgb(249, 132, 16);
+}
+
+.operator:hover {
+    background-color: rgb(255, 121, 11);
+}
+
+
+.modifier {
+    background-color: rgb(201, 202, 204);
+}
+
+.modifier:hover {
+    background-color: rgb(209, 209, 209);
+}
