@@ -9,10 +9,12 @@ npm install
 ## Start / Build
 
 `npm start`
+
 Runs the calculator in development mode. <br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser
 
 `npm run build`
+
 Builds a dehydrated version of the react-calculator. <br>
 Open index.html to run it
 
